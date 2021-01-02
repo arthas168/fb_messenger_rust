@@ -1,6 +1,6 @@
 [package]
 name = "fb_messenger"
-version = "0.1.13"
+version = "0.1.14"
 authors = ["Pete @arthas168"]
 edition = "2018"
 license = "MIT"
