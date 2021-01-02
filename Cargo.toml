@@ -1,6 +1,6 @@
 [package]
 name = "fb_messenger"
-version = "0.1.11"
+version = "0.1.12"
 authors = ["Pete @arthas168"]
 edition = "2018"
 license = "MIT"
@@ -9,8 +9,6 @@ homepage = "https://www.petkopavlovski.com"
 documentation = "https://docs.rs/fb_messenger"
 repository = "https://github.com/arthas168/fb_messenger_rust"
 readme = "README.md"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 reqwest = { version = "0.10.6", features = ["json"] }
