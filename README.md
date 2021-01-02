@@ -1,2 +1,3 @@
-# fb_messenger
-# fb_messenger_rust
+fb_messenger
+
+docs: https://docs.rs/fb_messenger
